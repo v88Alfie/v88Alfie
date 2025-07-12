@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies, learning and improving my programming skills.
 - 🎓 &nbsp; A graduate of degree in Information Technology .
-- 💼 &nbsp; A former Full-stack Developer with less than a year of experience and Currently looking for a job..
 - 🌱 &nbsp; Wants to learn more about cloud deployment.
 
 <br/>
