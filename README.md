@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Alfie
 
-<!--
-**v88Alfie/v88Alfie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies, learning and improving my programming skills.
+- 🎓 &nbsp; A graduate of degree in Information Technology .
+- 💼 &nbsp; A former Full-stack Developer with less than a year of experience and Currently looking for a job..
+- 🌱 &nbsp; Wants to learn more about cloud deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://github.com/phengzkie">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v88Alfie&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v88Alfie&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/alfie-osayan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alfie%20Osayan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/phengzkie/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Alfie%20Osayan-blue?style=flat-square&logo=facebook"></a>
+<a href="mailto:alfie.osayan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alfie.osayan@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [phengzkie](https://github.com/v88Alfie)
